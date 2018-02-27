@@ -1,0 +1,2 @@
+train num,test num,feature num,neg-right,neg-false,pos-right,pos-false,pos-precision,pos-recall,pos-f1,neg-precision,neg-recall,neg-f1,total-recall,
+800,200,500,125,57,143,75,65.59633027522935,71.5,68.42105263157893,68.68131868131869,62.5,65.44502617801048,67.0,

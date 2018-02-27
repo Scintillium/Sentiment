@@ -1,0 +1,34 @@
+我曹
+[pair('我', 'r'), pair('曹', 'nr')]
+
+我曹
+Score:0
+Sub-clause0: 
+{'score': 0, 'su-clause0': {'score': 0, 'positive': [], 'negative': [], 'conjunction': [], 'punctuation': [], 'pattern': []}}
+
+起草
+[pair('起草', 'v')]
+
+起草
+Score:0
+Sub-clause0: 
+{'score': 0, 'su-clause0': {'score': 0, 'positive': [], 'negative': [], 'conjunction': [], 'punctuation': [], 'pattern': []}}
+
+我爱你
+[pair('我爱你', 'l')]
+我爱你
+[pair('我爱你', 'l')]
+
+我爱你
+Score:0
+Sub-clause0: 
+{'score': 0, 'su-clause0': {'score': 0, 'positive': [], 'negative': [], 'conjunction': [], 'punctuation': [], 'pattern': []}}
+
+我喜欢玩游戏
+[pair('我', 'r'), pair('喜欢', 'v'), pair('玩游戏', 'n')]
+
+我喜欢玩游戏
+Score:2.0
+Sub-clause0: positive:喜欢 
+{'score': 2.0, 'su-clause0': {'score': 2.0, 'positive': [{'key': '喜欢', 'adverb': [], 'denial': [], 'value': 2.0, 'score': 2.0}], 'negative': [], 'conjunction': [], 'punctuation': [], 'pattern': []}}
+
